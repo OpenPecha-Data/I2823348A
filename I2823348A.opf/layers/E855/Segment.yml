@@ -1,0 +1,196 @@
+id: 39a6161a8ce7458d87b41e685b7d26de
+annotation_type: Segment
+revision: '00001'
+annotations:
+  b51ec73524ed4d2dbff74d3a426bfede:
+    span:
+      start: 0
+      end: 87
+  9efe83f277e64ffc859200f25731c449:
+    span:
+      start: 89
+      end: 115
+  c6fcbbaafc1c49c5abcd35f384050ea5:
+    span:
+      start: 117
+      end: 144
+  1f7d40703847405d87cd60c19866730f:
+    span:
+      start: 146
+      end: 227
+  d418552e683c45a3a0bf4d80e3def848:
+    span:
+      start: 229
+      end: 265
+  fb1b3fd1dc7d4aaf83fd2d1364e51446:
+    span:
+      start: 267
+      end: 362
+  d4cc62f8cdb44630972b06471a475a9a:
+    span:
+      start: 364
+      end: 415
+  224246b60b0344f598e1f833051448b1:
+    span:
+      start: 417
+      end: 472
+  667f33dd45174b40b52ef1bb99a08452:
+    span:
+      start: 474
+      end: 513
+  db8a92fa3dc741aebde0c5cfebfb4466:
+    span:
+      start: 515
+      end: 561
+  be22724c72c740d9b4d3ffcd6971669d:
+    span:
+      start: 563
+      end: 1258
+  da418c72673f46afa0f738b8075b60ea:
+    span:
+      start: 1260
+      end: 1313
+  fcb0adb7d2374a9c9f4207dc58c98a21:
+    span:
+      start: 1315
+      end: 1370
+  e7978e7232e3436b97f374ed09c2b8f3:
+    span:
+      start: 1372
+      end: 1423
+  c4c200048b29429b931367cb6fd62139:
+    span:
+      start: 1425
+      end: 1515
+  aabbcb09d9314200b3658f5f87e7b3c6:
+    span:
+      start: 1517
+      end: 2594
+  31c33fbdb5c64307b3d4b3700c2c1750:
+    span:
+      start: 2596
+      end: 2709
+  99693a4c9bba45888534273acba87fe8:
+    span:
+      start: 2711
+      end: 2824
+  570edd1b902b4de7b2d3e62f7f77587e:
+    span:
+      start: 2826
+      end: 2926
+  ef69d72366b64319b3c1f7ff3bac9337:
+    span:
+      start: 2928
+      end: 3037
+  4719b8cd09224069ac7a28921ab1a873:
+    span:
+      start: 3039
+      end: 3133
+  a0d5b853d773450caf280a28f263b0d6:
+    span:
+      start: 3135
+      end: 3298
+  b8a7ffef66be405a911ae6ce4cf13cd0:
+    span:
+      start: 3300
+      end: 3314
+  6b6bb243facb4af192c16466ada7f704:
+    span:
+      start: 3316
+      end: 3423
+  106a8dcf50f54268ae52844840ff2cb6:
+    span:
+      start: 3425
+      end: 3517
+  0b683351edf6459a97a2abe5737d0810:
+    span:
+      start: 3519
+      end: 3638
+  ca8ad61158c749a688155044f4223af1:
+    span:
+      start: 3640
+      end: 3744
+  00b1826eb07a4ccebd03fe2c13cfa893:
+    span:
+      start: 3746
+      end: 3845
+  5b46a7f6509147b8827afe48405193dd:
+    span:
+      start: 3847
+      end: 3965
+  397756fd04b14a928a538edfda85b3ce:
+    span:
+      start: 3967
+      end: 4052
+  392f91f89e7c41698c727a223be6580c:
+    span:
+      start: 4054
+      end: 4125
+  20a69871a915440cb9e52ffba24f15fd:
+    span:
+      start: 4127
+      end: 4212
+  06f92679ab6347bfabae73fda47d5229:
+    span:
+      start: 4214
+      end: 4341
+  7dd63faaa9f14b1fb61cd03f5fc200c5:
+    span:
+      start: 4343
+      end: 4430
+  7e85711918ba4af89af936bda86a6370:
+    span:
+      start: 4432
+      end: 4587
+  ac3f928146da426ea105fc352d238f14:
+    span:
+      start: 4589
+      end: 4679
+  9f4762b460894c8b959ec36f86484831:
+    span:
+      start: 4681
+      end: 4783
+  00e4d97776c5488bb291e64094bf86a9:
+    span:
+      start: 4785
+      end: 4943
+  b872769e98a34d5498d00c9110f88d3d:
+    span:
+      start: 4945
+      end: 5144
+  6f618bd001f043edae468b80b513e664:
+    span:
+      start: 5146
+      end: 5234
+  36a1c8ad84be42649152ca155fa8adb0:
+    span:
+      start: 5236
+      end: 5650
+  54212e6fd5d241d394b453190a5b6357:
+    span:
+      start: 5652
+      end: 5666
+  940b8a00788e48959aee4cb3196424c4:
+    span:
+      start: 5668
+      end: 5949
+  c799f7d9c06e40b69578b7d6cba52e38:
+    span:
+      start: 5951
+      end: 6049
+  17ff5a3aad3f4c928e4143c8b0264d96:
+    span:
+      start: 6051
+      end: 6101
+  baf03308b45c4c06a5143854663f9000:
+    span:
+      start: 6103
+      end: 6221
+  c8026c45feb64de8b070523cf931f641:
+    span:
+      start: 6223
+      end: 6261
+  267e63e8895f44b5b9bb1899e35a5561:
+    span:
+      start: 6263
+      end: 6370
